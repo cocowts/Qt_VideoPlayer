@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>bottom/pic/bottom_right.png</file>
+        <file>bottom/pic/current_list.png</file>
+        <file>bottom/pic/currentiteminloop.png</file>
+        <file>bottom/pic/curtime_handle.png</file>
+        <file>bottom/pic/last.png</file>
+        <file>bottom/pic/loop.png</file>
+        <file>bottom/pic/next.png</file>
+        <file>bottom/pic/pause.png</file>
+        <file>bottom/pic/play.png</file>
+        <file>bottom/pic/random.png</file>
+        <file>bottom/pic/sequential.png</file>
+        <file>bottom/pic/volume.png</file>
+        <file>bottom/pic/volume_handle.png</file>
+        <file>bottom/pic/volume_silence.png</file>
+        <file>bottom/pic/stop.png</file>
+        <file>top/pic/close.png</file>
+        <file>top/pic/close_hover.png</file>
+        <file>top/pic/line.png</file>
+        <file>top/pic/maximum.png</file>
+        <file>top/pic/maximum_cancel.png</file>
+        <file>top/pic/maximum_cancel_hover.png</file>
+        <file>top/pic/maximum_hover.png</file>
+        <file>top/pic/minimum.png</file>
+        <file>top/pic/minimum_hover.png</file>
+        <file>top/pic/skin.png</file>
+        <file>top/pic/skin_hover.png</file>
+        <file>top/pic/titleIcon.png</file>
+        <file>top/pic/about.png</file>
+        <file>top/pic/about_hover.png</file>
+        <file>about/pic/about.png</file>
+    </qresource>
+</RCC>

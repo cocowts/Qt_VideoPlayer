@@ -1,0 +1,10 @@
+prefix=C:/dev/install
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: VLCQtQml
+Description: Qt and libvlc connector library - QML component
+Version: 1.1.0
+Libs: -L${libdir} -lVLCQtCore -lVLCQtQml
+Cflags: -I${includedir}
